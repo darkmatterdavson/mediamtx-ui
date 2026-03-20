@@ -1,2 +1,2 @@
-# Frontend for MediaMTX (Multiuser dashboard with authentication)
+# Ui for MediaMTX
 User friendly frontend for MediaMTX (live media router)
