@@ -1,2 +1,2 @@
-# Web Ui for MediaMTX
+# Web UI for MediaMTX
 User friendly frontend for MediaMTX (live media router)
